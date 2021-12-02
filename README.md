@@ -8,7 +8,7 @@ Commence the program
 ### Step 2: 
 Get the value from the user for the number of rotation
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](formula.png)
+Substitute the values in the distance formula  ![formula](/formula.png)
 ### Step 4:
 use the distance formula to calculate the values  
 ### Step 5: 
